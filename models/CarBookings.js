@@ -1,5 +1,5 @@
-// const  mongoose =  require('mongoose');
-// const { Schema, model } = mongoose;
+const  mongoose =  require('mongoose');
+const { Schema, model } = mongoose;
 
 // const BookingSchema = new Schema({
 //   CustomerDetails: {type: Schema.Types.ObjectId, ref: 'Customers', default : ""},
